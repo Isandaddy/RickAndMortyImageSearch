@@ -1,2 +1,0 @@
-# RickAndMortyImageSearch
-Created with CodeSandbox
